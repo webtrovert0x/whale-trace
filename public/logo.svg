@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <!-- Icon Container -->
+  <rect x="10" y="10" width="60" height="60" rx="14" fill="#2563eb"/>
+  
+  <!-- Sonar / Trace Arcs -->
+  <path d="M 23 43 A 17 17 0 0 1 57 43" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.4"/>
+  <path d="M 18 43 A 22 22 0 0 1 62 43" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.25"/>
+
+  <!-- Whale body & head -->
+  <path d="M 24 43 C 24 36, 30 32, 40 32 C 50 32, 56 37, 60 41 C 61 42, 61 44, 59 45 C 54 46, 48 47, 40 47 C 32 47, 26 46, 24 43 Z" fill="#ffffff"/>
+  
+  <!-- Whale tail -->
+  <path d="M 24 43 C 21 42, 19 39, 17 36 C 18 40, 18 43, 16 46 C 19 45, 22 44, 24 43 Z" fill="#ffffff"/>
+  
+  <!-- Whale flipper -->
+  <path d="M 39 46 C 37 49, 34 52, 31 52 C 32 49, 35 47, 39 46 Z" fill="#ffffff"/>
+  
+  <!-- Whale eye -->
+  <circle cx="53" cy="38" r="1.8" fill="#2563eb"/>
+
+  <!-- Trace Pulse -->
+  <circle cx="53" cy="26" r="2" fill="#ffffff"/>
+  <line x1="53" y1="30" x2="53" y2="35" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- Typography -->
+  <text x="84" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" fill="#ffffff" letter-spacing="-0.5">BOT WhaleTrace</text>
+  <text x="84" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#94a3b8" letter-spacing="0.5">LARGE-TRANSFER ANALYSIS</text>
+</svg>
